@@ -9,7 +9,8 @@ let counter = 0;
 const sayingsArr = [
     '"Time is money." - Benajmin Franklin',
     '"Time brings all things to pass." - Aeschylus',
-    '"The future is uncertain but the end is always near." - Jim Morrison'
+    '"The future is uncertain but the end is always near." - Jim Morrison',
+    '"Rice is born in water and must die in wine." - Italian Proverb'
 ];
 
 // sayings button onclick function
